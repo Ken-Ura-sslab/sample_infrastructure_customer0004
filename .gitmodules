@@ -1,0 +1,3 @@
+[submodule "modules"]
+	path = modules
+	url = git@github.com:Ken-Ura-sslab/test_terraform_base_modules.git
